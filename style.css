@@ -65,7 +65,7 @@ header{
 }
 .top-container{
     position: relative;
-    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/24x7.png');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/cover.png');
 }
 .cover-img{
     position: absolute;
@@ -127,7 +127,7 @@ h2{
 .brunch{
     width: 80%;
     margin: auto;
-    background-image: url('/img/brunch1.jpg');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/brunch1.jpg');
     background-repeat: no-repeat;
     border-radius: 30px;
     background-size: cover ;
@@ -158,7 +158,7 @@ h3{
 .dinner{
     width: 80%;
     margin: auto;
-    background-image: url('/img/dinner2.jpg');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/dinner2.jpg');
     background-repeat: no-repeat;
     border-radius: 30px;
     background-size: cover;
@@ -181,7 +181,7 @@ h3{
 .desert{
     width: 80%;
     margin: auto;
-    background-image: url('/img/desert.jpg');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/desert.jpg');
     background-repeat: no-repeat;
     border-radius: 30px;
     background-size: cover;
@@ -232,7 +232,7 @@ hr{
 .delivery{
     width: 80%;
     margin: auto;
-    background-image: url('/img/delivery.jpg');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/delivery.jpg');
     background-repeat: no-repeat;
     border-radius: 30px;
     background-size: cover;
@@ -272,7 +272,7 @@ input:focus{
 .signup{
     width: 80%;
     margin: auto;
-    background-image: url('/img/signup.jpg');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/signup.jpg');
     background-repeat: no-repeat;
     border-radius: 30px;
     background-size: 100%;
