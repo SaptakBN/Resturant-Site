@@ -65,7 +65,7 @@ header{
 }
 .top-container{
     position: relative;
-    background-image: url('https://github.com/SaptakBN/The-Food-Cafe/blob/main/img/cover.jpg');
+    background-image: url('https://raw.githubusercontent.com/SaptakBN/The-Food-Cafe/main/img/24x7.png');
 }
 .cover-img{
     position: absolute;
