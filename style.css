@@ -65,7 +65,7 @@ header{
 }
 .top-container{
     position: relative;
-    background-image: url('/img/cover.jpg');
+    background-image: url('/main/img/cover.jpg');
 }
 .cover-img{
     position: absolute;
